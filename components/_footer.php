@@ -1,3 +1,6 @@
+<?php
+echo '
+
 <section class="">
   <!-- Footer -->
   <footer class="text-center text-white bg-dark" >
@@ -7,9 +10,9 @@
       <section class="">
         <p class="d-flex justify-content-center align-items-center">
           <span class="me-3">Register for free</span>
-          <button data-mdb-ripple-init type="button" class="btn btn-outline-success btn-rounded">
-            Sign up!
-          </button>
+           
+          <div class="btn btn-outline-success me-4" data-bs-toggle="modal" data-bs-target="#signupmodal">SignUp</div>
+          
         </p>
       </section>
       <!-- Section: CTA -->
@@ -24,4 +27,6 @@
     <!-- Copyright -->
   </footer>
   <!-- Footer -->
-</section>
+</section> ' ;
+include '_signup.php';
+?>

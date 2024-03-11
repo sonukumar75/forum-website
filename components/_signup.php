@@ -1,4 +1,12 @@
-<!-- Modal -->
+<?php
+
+
+
+
+
+?>
+
+
 <div class="modal fade" id="signupmodal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -9,7 +17,7 @@
             <div class="modal-body">
                 <div id="sign">
 
-                    <h3 class="text-center text-white ">SignUp form</h3>
+                    
                     <div class="container-fluid">
                         <div id="sign-row" class="row justify-content-center align-items-center">
                             <div id="sign-column" class="col-md-12">

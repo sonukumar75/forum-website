@@ -1,6 +1,5 @@
 <?php
 echo '
-
 <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top">
   <div class="container-fluid">
     <a class="navbar-brand" href="/php_tutorial/forum">Anything</a>
